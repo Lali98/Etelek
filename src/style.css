@@ -1,0 +1,11 @@
+body {
+    background-color: beige;
+    font-family: Verdana, serif;
+    padding-left: 15px
+}
+
+img {
+    width: 400px;
+    height: 340px;
+    border-radius: 15px;
+}
